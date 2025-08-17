@@ -1,22 +1,43 @@
-# SkyNiq
-SkyNiq is a modern, feature-rich weather application built with React Native and Expo, providing real-time weather updates, 5-day forecasts, and an interactive map-based location picker. With a visually dynamic UI that adapts to current conditions (day/night, rain, snow, clouds), SkyNiq offers an immersive and accurate weather experience.
+# 📱 HabitPulse
 
-Features:
+HabitPulse is a modern **habit tracking app** built with React Native & Expo. It helps you stay consistent, productive, and motivated by organizing your daily tasks and visualizing your progress.
 
-🌦 Real-time weather updates using OpenWeather API
+---
 
-📅 5-day forecast with hourly breakdown
+## ✨ Features
+- ✅ Add, complete, and track daily tasks  
+- 📊 View detailed progress with percentage completion  
+- 📈 Analyze your growth over time with interactive charts  
+- 💾 Data persistence with AsyncStorage (your progress stays safe)  
+- 🌈 Clean and engaging UI with gradient backgrounds  
 
-🗺 Interactive map to choose and confirm locations
+---
 
-🎨 Dynamic background images matching live weather & time
+## 🚀 Tech Stack
+- **React Native**
+- **Expo**
+- **AsyncStorage**
+- **Recharts (Charts & Graphs)**
 
-⏰ Real-time clock with live updates
+---
 
-🔍 Smart city search with auto-suggestions
+## 📸 Screenshots
+> Add app screenshots here for better presentation  
+*(e.g., Home Screen, Progress Chart, Task List)*
 
-📍 Automatic location detection with reverse geocoding
+---
 
-Tech Stack: React Native, Expo, OpenWeather API, Google Maps API, JavaScript
+## 📦 Installation
 
-Perfect for: Anyone looking for a clean, visually appealing, and interactive weather app with real-time precision.
+```bash
+# Clone the repository
+git clone https://github.com/your-username/HabitPulse.git
+
+# Navigate into the project folder
+cd HabitPulse
+
+# Install dependencies
+npm install
+
+# Start the development server
+npx expo start
