@@ -20,13 +20,7 @@ HabitPulse is a modern **habit tracking app** built with React Native & Expo. It
 - **AsyncStorage**
 - **Recharts (Charts & Graphs)**
 
----
 
-## 📸 Screenshots
-> Add app screenshots here for better presentation  
-*(e.g., Home Screen, Progress Chart, Task List)*
-
----
 
 ## 📦 Installation
 
