@@ -1,3 +1,4 @@
+
 # 📱 HabitPulse
 
 HabitPulse is a modern **habit tracking app** built with React Native & Expo. It helps you stay consistent, productive, and motivated by organizing your daily tasks and visualizing your progress.
@@ -41,3 +42,4 @@ npm install
 
 # Start the development server
 npx expo start
+=======
